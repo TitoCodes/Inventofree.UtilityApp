@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventofree.UtilityApp", "Inventofree.UtilityApp.csproj", "{CEBF8F5A-5773-49E2-BB8B-5C2B7751435E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBF8F5A-5773-49E2-BB8B-5C2B7751435E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBF8F5A-5773-49E2-BB8B-5C2B7751435E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBF8F5A-5773-49E2-BB8B-5C2B7751435E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBF8F5A-5773-49E2-BB8B-5C2B7751435E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
